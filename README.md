@@ -1,2 +1,2 @@
-# caliwaves_website
+# caliwaves-website
 Website design
